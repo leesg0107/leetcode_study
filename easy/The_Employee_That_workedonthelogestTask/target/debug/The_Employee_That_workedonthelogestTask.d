@@ -1,0 +1,1 @@
+C:\Users\bumblebee\rust_practice\leetcode\The_Employee_That_workedonthelogestTask\target\debug\The_Employee_That_workedonthelogestTask.exe: C:\Users\bumblebee\rust_practice\leetcode\The_Employee_That_workedonthelogestTask\src\main.rs
